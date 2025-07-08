@@ -1,0 +1,21 @@
+body{
+    background: rgb(75 189 215);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div{
+    background: rgba(231, 33, 33, 0.849);
+    color: white;
+    padding: 15px;
+    margin:15px 0;
+    border-radius: 8px;
+}
+
+img{width: 400px;
+
+}
+
+.imposter{
+    color:red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

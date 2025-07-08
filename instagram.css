@@ -1,0 +1,48 @@
+
+.name{
+    margin-left:auto;
+    margin-right:auto;
+    display: flex;
+}
+.namer {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 50px;
+}
+.pfp{
+    width: 175px;
+    border:0px solid black;
+    aspect-ratio: 1;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.plus{
+    width: 30px;
+    transform: translate(-40px, -8px);
+}
+.container-for-pfp-and-num{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top:60px
+}
+.container-numbers{
+    display: flex;
+flex-grow: 1;
+    justify-content: space-evenly;
+}
+
+.number{
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.word{
+    font-weight: 500;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

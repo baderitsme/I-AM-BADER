@@ -19,6 +19,7 @@
 .plus{
     width: 30px;
     transform: translate(-40px, -8px);
+    flex-shrink: 0;
 }
 .container-for-pfp-and-num{
     display: flex;

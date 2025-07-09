@@ -1,0 +1,23 @@
+a{
+  background : silver;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 20px;
+    display:inline-flex;
+text-decoration: none;
+color :black;
+font-size: 30px;
+transition: all 250ms ease;
+margin-bottom:20px;
+margin-right: 10px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-transform: capitalize;
+}
+a:hover{
+    transform:scale(1.7)
+}
+body{
+    background: rgb(73, 145, 234);
+    background-image: url(Poke_Ball.webp);
+    background-position: center;
+}

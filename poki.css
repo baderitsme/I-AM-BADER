@@ -1,0 +1,19 @@
+.charizard{
+    display:flex;
+    justify-content: center;
+}
+img{
+    width: 750px;
+    border-top:5px solid black;
+    
+}
+.name{
+    margin-left: 200px;
+    font-size: 40px;
+    font-weight: bold ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: capitalize;
+}
+body{
+    background:rgba(197, 67, 67, 0.744)
+}
